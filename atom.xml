@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Arcticsun's Blog]]></title>
+  <link href="http://Arcticsun.github.com/atom.xml" rel="self"/>
+  <link href="http://Arcticsun.github.com/"/>
+  <updated>2013-01-12T15:32:41+08:00</updated>
+  <id>http://Arcticsun.github.com/</id>
+  <author>
+    <name><![CDATA[Arcticsun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My first blog]]></title>
+    <link href="http://Arcticsun.github.com/blog/2013/01/10/my-first-blog/"/>
+    <updated>2013-01-10T00:58:00+08:00</updated>
+    <id>http://Arcticsun.github.com/blog/2013/01/10/my-first-blog</id>
+    <content type="html"><![CDATA[<p>Everything starts from here.</p>
+]]></content>
+  </entry>
+  
+</feed>
